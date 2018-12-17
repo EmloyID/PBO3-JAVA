@@ -10,8 +10,12 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author riski
+ * @author
+//Nama  : Tias Gumelar Timorisky
+//NIM   : 10117111
+//Kelas : IF3
  */
+
 public class PelangganModel {
     
     private String nama;
